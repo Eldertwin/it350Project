@@ -9,7 +9,7 @@
    include("session.php");      
    session_start();
 ?>
-        <h1><a href = "admin.php">Fancy Foam Fighters Admin Home<?php echo $login_session; ?></h1> 
+        <h1><a href = "admin.php">Fancy Fony Foam Fighters Admin Home<?php echo $login_session; ?></h1> 
             <h2><a href = "logout.php">Sign Out</a></h2>
                 <h2><a href = "addSword.php">Add Sword</a></h2>
                 <h2><a href = "addShield.php">Add Shield</a></h2>
